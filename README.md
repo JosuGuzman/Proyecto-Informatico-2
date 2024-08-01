@@ -1,2 +1,1 @@
-#   Proyecto Informatico II
-    # Brawl Pedia
+# Proyecto Informatico II Brawl Pedia
